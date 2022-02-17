@@ -11,7 +11,7 @@
     <property file="dacapo.properties"/>
 
     <property name="bm-name" value="jython"/>
-    <property name="bm-hg-url" value="https://bitbucket.org/jython/jython"/>
+    <property name="bm-hg-url" value="https://hg.python.org/jython"/>
     <property name="bm-hg-revision" value="v2.7.1"/>
     <property name="bm-version" value="hg-${bm-hg-revision}"/>
     <property name="bm-ignore-failure" value="no" />
